@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/ustkit/golang/magent/internal/metric"
+	"github.com/ustkit/magent/internal/metric"
 )
 
 type Memory struct {

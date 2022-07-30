@@ -1,7 +1,7 @@
 package collector
 
 import (
-	"github.com/ustkit/golang/magent/internal/metric"
+	"github.com/ustkit/magent/internal/metric"
 )
 
 type Console Collector

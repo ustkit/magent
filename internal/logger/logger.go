@@ -6,7 +6,7 @@ import (
 
 	"github.com/rs/zerolog"
 
-	"github.com/ustkit/golang/magent/internal/config"
+	"github.com/ustkit/magent/internal/config"
 )
 
 type Logger struct {

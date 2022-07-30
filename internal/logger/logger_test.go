@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ustkit/golang/magent/internal/config"
+	"github.com/ustkit/magent/internal/config"
 )
 
 var message struct {

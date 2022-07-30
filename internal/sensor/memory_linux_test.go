@@ -5,7 +5,7 @@ package sensor
 import (
 	"testing"
 
-	"github.com/ustkit/golang/magent/internal/metric"
+	"github.com/ustkit/magent/internal/metric"
 )
 
 func TestMemory(t *testing.T) {

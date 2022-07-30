@@ -1,4 +1,4 @@
-module github.com/ustkit/golang/magent
+module github.com/ustkit/magent
 
 go 1.17
 

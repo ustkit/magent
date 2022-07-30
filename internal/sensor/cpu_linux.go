@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ustkit/golang/magent/internal/metric"
+	"github.com/ustkit/magent/internal/metric"
 )
 
 type CPU struct {

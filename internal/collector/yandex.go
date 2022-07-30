@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ustkit/golang/magent/internal/metric"
+	"github.com/ustkit/magent/internal/metric"
 
 	"github.com/golang-jwt/jwt/v4"
 )

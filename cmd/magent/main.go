@@ -6,11 +6,11 @@ import (
 	"os"
 	"sync"
 
-	"github.com/ustkit/golang/magent/internal/collector"
-	"github.com/ustkit/golang/magent/internal/config"
-	"github.com/ustkit/golang/magent/internal/logger"
-	"github.com/ustkit/golang/magent/internal/metric"
-	"github.com/ustkit/golang/magent/internal/sensor"
+	"github.com/ustkit/magent/internal/collector"
+	"github.com/ustkit/magent/internal/config"
+	"github.com/ustkit/magent/internal/logger"
+	"github.com/ustkit/magent/internal/metric"
+	"github.com/ustkit/magent/internal/sensor"
 )
 
 func main() {

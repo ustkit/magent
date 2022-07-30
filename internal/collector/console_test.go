@@ -3,9 +3,9 @@ package collector
 import (
 	"testing"
 
-	"github.com/ustkit/golang/magent/internal/config"
-	"github.com/ustkit/golang/magent/internal/logger"
-	"github.com/ustkit/golang/magent/internal/metric"
+	"github.com/ustkit/magent/internal/config"
+	"github.com/ustkit/magent/internal/logger"
+	"github.com/ustkit/magent/internal/metric"
 )
 
 func TestConsoleSend(t *testing.T) {
